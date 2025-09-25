@@ -10,6 +10,7 @@
 ### Intro & Catalogue (BYOT)
 - Jupyter Notebooks on Fragalysis (intro)
 - Git intro
+- RDKit / SDF intro
 - Using the FFF template
 - Download a target
 - HIPPO intro
