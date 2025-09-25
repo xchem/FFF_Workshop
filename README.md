@@ -15,6 +15,7 @@
 - Download a target
 - HIPPO intro
 - HIPPO interaction profiling
+- Merge opportunities
 - Fragmenstein merging
 - Knitwork merging
 - Smallworld analogues
