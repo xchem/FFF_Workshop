@@ -1,5 +1,5 @@
 
-# Part 2: Using git(hub) and the terminal
+# Part A2: Using git(hub) and the terminal
 
 [Previous section](A1_NOTEBOOKS.md)
 
