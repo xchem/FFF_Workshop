@@ -8,6 +8,7 @@
 ## Outline
 
 ### Intro & Catalogue (BYOT)
+- Fragalysis refresher?
 - Jupyter Notebooks on Fragalysis (intro)
 - Git intro
 - RDKit / SDF intro
