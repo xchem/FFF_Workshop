@@ -1,9 +1,12 @@
 # FFF_Workshop
 
+This repository contains the information and workshop materials for an in-person Fast Forward Fragments (FFF) crash course hosted by @mwinokan at Diamond Light Source on November 10th-11th at Diamond Light Source.
+
 ## Prerequisites
 
-- [ ] DLS CAS / FedID login
-- [ ] ub account](https:/ub.com/signup)
+- DLS CAS / FedID login
+- [Github account](https:/github.com/signup)
+- Some basic knowledge of JupyterNotebooks / Python. See [Jupyter Notebooks on Fragalysis](A1_NOTEBOOKS.md)
 
 ## Schedule
 
@@ -22,52 +25,36 @@
 
 ## Outline
 
-### Day 1: Introductions and catalogue orders
+### Session 1 (4 hours): Introductions
 
 1. [Jupyter Notebooks on Fragalysis](A1_NOTEBOOKS.md)
 2. [Git(hub) and terminal](A2_GIT_AND_TERMINAL.md)
-3. Usie FFF template repository
-4. Algmic fragment merging
+3. Using the FFF template repository
+4. Algorithmic fragment merging
 5. Placing compounds Fragmenstein
 6. Interaction profiling and visualisation
 7. Scaffolds, clustering, and rdkit
 8. Scoring and selecting compounds
-9. Working compound quotes
-10. Optimising a selection
 
-### Day 2: Elaboration, recipes, and HPC techniques
+### Session 2 (2 hours): Catalogue Orders
 
+1. Working with the Enamine in-stock BB database
+2. Working with Enamine quote spreadsheets
+3. Optimising a selection
 
+### Session 3 (4 hours): Elaboration, recipes, and HPC techniques
 
-### Intro & Catalogue (BYOT)
-- Fragalysis refresher?
-- Jupyter Notebooks on Fragalysis (intro)
-- Git intro
-- RDKit / SDF intro
-- Usie FFF template
-- Download a target
-- HIPPO intro
-- HIPPO interaction profiling
-- Merge opportunities
-- Fragmenstein merging
-- Knitwork merging
-- Smallworld analogues
-- Placing merges
-- Selecting merges
-- Adding a fake quote
-- Optimising a catalogue order
+1. Syndirella retrosynthesis w/ AiZynthFinder(Kate)
+2. Syndirella elaboration (Kate)
+3. Loading syndirella outputs into HIPPO
+4. Generating a scaffold recipe
+5. Generating output files
+6. Random recipe generation
+7. Recipe scoring
 
-### Elaboration & Recipes (Example DB)
-- Syndirella retroesis
-- Syndirella elaboration
-- Loading syndirella outputs
-- Scaffold recipe
-- Random Recipe Generation
-- Recipe scoring
-- Generating output files
+### Session 4 (3 hours): FFF on IRIS HPC
 
-### Advanced (SSH IRIS access)
-- Notebook job
-- BulkDock
-- Batchon
-- Openbind specifics?
+1. Notebook job
+2. BulkDock
+3. Batch python
+4. Openbind specifics?
