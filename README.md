@@ -42,7 +42,7 @@ This repository contains the information and workshop materials for an in-person
 2. Working with Enamine quote spreadsheets
 3. Optimising a selection
 
-### Session 3 (4 hours): Elaboration, recipes, and HPC techniques
+### Session 3 (4 hours): Syndirella and recipe generation
 
 1. Syndirella retrosynthesis w/ AiZynthFinder(Kate)
 2. Syndirella elaboration (Kate)
