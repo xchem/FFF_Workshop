@@ -5,6 +5,21 @@
 - [ ] DLS CAS / FedID login
 - [ ] [Github account](https://github.com/signup)
 
+## Schedule
+
+
+|     Day      |   Time    |     Session      |    Location     | Capacity | Attendees |
+|--------------|-----------|------------------|-----------------|----------|-----------|
+| Monday 10th  | 0900-1200 | 1                | G53             |       16 |           |
+| Monday 10th  | 1200-1230 | Lunch            | Cafeteria / G53 |       16 |           |
+| Monday 10th  | 1230-1400 | 1 (cont.)        | G53             |       16 |           |
+| Monday 10th  | 1400-1500 | OB-Leads / Break | Z05             |       12 |           |
+| Monday 10th  | 1500-1700 | 2                | Z05             |       12 |           |
+| Tuesday 11th | 0900-1200 | 3                | Z07             |       16 |           |
+| Tuesday 11th | 1200-1230 | Lunch            | Cafeteria / Z07 |       16 |           |
+| Tuesday 11th | 1230-1400 | 3 (cont.)        | Z07             |       16 |           |
+| Tuesday 11th | 1400-1700 | 4                | I14             |       12 |           |
+
 ## Outline
 
 ### Day 1: Introductions and catalogue orders
