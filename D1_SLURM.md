@@ -1,12 +1,12 @@
 
 # Part D1: SLURM Scripts
 
-[Previous section](C5_RECIPE_OUTPUTS.md)
-
-[Next section](C7_SCORING.md)
+### [[Previous section]](C7_SCORING.md) [[Next section]](D2_BULKDOCK.md)
 
 
 ## FAQ
 
 
 ## Other Resources
+
+### [[Previous section]](C7_SCORING.md) [[Next section]](D2_BULKDOCK.md)

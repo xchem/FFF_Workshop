@@ -41,7 +41,7 @@ This repository contains the information and workshop materials for an in-person
 
 1. [Working with the Enamine in-stock BB database](B1_BB_QUOTE.md)
 2. [Working with Enamine quote spreadsheets](B2_REAL_QUOTE.md)
-3. [Optimising a selection](B3_CATALOGUE_SELECT.md)
+3. [Optimising a selection of Catalogue compounds](B3_CATALOGUE_SELECT.md)
 
 ### Session C (4 hours): Syndirella and recipe generation
 
