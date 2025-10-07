@@ -13,6 +13,10 @@ Follow the [Fragalysis instructions](https://fragalysis.readthedocs.io/en/latest
 
 ## Notebook intro
 
+<picture>
+ <img alt="Welcome Notebook" src="media/notebook_welcome.png">
+</picture>
+
 Max will run you through some basic jupyter notebooks tasks, covering:
 
 - Using the file navigator
@@ -22,10 +26,6 @@ Max will run you through some basic jupyter notebooks tasks, covering:
 - Importing libraries
 
 ## FAQ:
-
-- Uploading files
-- Executing cells
-- Stopping a runaway process
 
 ## Other Resources
 
