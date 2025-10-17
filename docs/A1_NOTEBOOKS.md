@@ -1,7 +1,7 @@
 
 # Part A1: Jupyter Notebooks on Fragalysis
 
-### [[Back to intro]](README.md) [[Next section]](docs/A2_GIT_AND_TERMINAL.md)
+### [[Back to intro]](README.md) [[Next section]](A2_GIT_AND_TERMINAL.md)
 
 Jupyter notebooks are a convenient way to run Python scripts from a user-friendly web interface. Fragalysis offers pre-configured notebooks apps via the Squonk Data Manager, that include the FFF tools described in this workshop and are the recommended way to run small FFF calculations.
 
@@ -68,4 +68,4 @@ Many other such extension commands exist
 - [Official Jupyter documentation](https://docs.jupyter.org/en/latest/)
 - [Dataquest Jupyter notebook tutorial](https://www.dataquest.io/blog/jupyter-notebook-tutorial/)
 
-### [[Back to intro]](README.md) [[Next section]](docs/A2_GIT_AND_TERMINAL.md)
+### [[Back to intro]](README.md) [[Next section]](A2_GIT_AND_TERMINAL.md)
