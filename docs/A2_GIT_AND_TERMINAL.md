@@ -10,7 +10,7 @@ Git is the most common way to track changes in software projects. Github.com is 
 To get yourself a personal copy of the workshop materials, and get a workspace to keep your work in use the https://github.com/xchem/FFF_Workshop as a *template* for a new repository:
 
 <picture>
- <img alt="New repo from template" src="media/fff_workshop_template.png">
+ <img alt="New repo from template" src="../media/fff_workshop_template.png">
 </picture>
 
 <!-- Create a new *repository* on Github.com: https://github.com/new. E.g. for this workshop you could set up -->
