@@ -13,6 +13,10 @@ To get yourself a personal copy of the workshop materials, and get a workspace t
  <img alt="New repo from template" src="../media/fff_workshop_template.png">
 </picture>
 
+<picture>
+ <img alt="New repo from template" src="../media/new_repo.png">
+</picture>
+
 <!-- Create a new *repository* on Github.com: https://github.com/new. E.g. for this workshop you could set up -->
 
 Max will run you through some basic git & command line tasks, covering:
