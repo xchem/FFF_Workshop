@@ -6,24 +6,10 @@ This repository contains the information and workshop materials for an in-person
 
 - DLS CAS / FedID login
 - [Github account](https:/github.com/signup)
-- Some basic knowledge of JupyterNotebooks / Python. See [Jupyter Notebooks on Fragalysis](A1_NOTEBOOKS.md)
 
-## Schedule
+## Documentation
 
-
-|     Day |   Time    |     Session      |    Location     | Capacity | Attendees |
-|---------|-----------|------------------|-----------------|----------|-----------|
-| Monday  | 0900-1200 | A                | G53             |       16 | Everyone |
-| Monday  | 1200-1230 | Lunch            | Cafeteria / G53 |       16 |  |
-| Monday  | 1230-1400 | A (cont.)        | G53             |       16 | Everyone |
-| Monday  | 1400-1500 | OB-Leads / Break | Z05             |       12 |  |
-| Monday  | 1500-1700 | B                | Z05             |       12 | Everyone* |
-| Tuesday | 0900-1200 | C                | Z07             |       16 | Power-Users |
-| Tuesday | 1200-1230 | Lunch            | Cafeteria / Z07 |       16 |  |
-| Tuesday | 1230-1400 | C (cont.)        | Z07             |       16 | Power-Users |
-| Tuesday | 1400-1700 | D                | I14             |       12 | DLS HPC-Users |
-
-## Outline
+The workshop and it's documentation is split into four sessions of increasing software difficulty.
 
 ### Session A (4 hours): Introductions
 

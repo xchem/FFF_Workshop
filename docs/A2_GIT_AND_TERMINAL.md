@@ -29,6 +29,20 @@ git clone https://github.com/YOUR_USER_NAME/FFF_Workshop.git
 
 This will create the directory named after your repository and download the latest files.
 
+## Changing working directory in the terminal
+
+Once you have cloned the directory you can change to it using `cd` (change directory).
+
+E.g.
+
+```
+cd FFF_Workshop
+```
+
+You can verify your current working dirrectory with `pwd` (print working directory).
+
+To see the contents of the directory run `ls` (list).
+
 ## Making and committing changes to files
 
 Git is a version control software that allows you to keep track of text files such as documentation, scripts, and source code over time.
@@ -89,6 +103,7 @@ E.g. for HIPPO:
 
 ## Other Resources
 
+- [w3schools Bash / command line Tutorial](https://www.w3schools.com/bash/index.php)
 - [w3schools Git Tutorial](https://www.w3schools.com/git/git_getstarted.asp)
 
 ### [[Previous section]](A1_NOTEBOOKS.md) [[Next section]](A3_FFF_TEMPLATE.md)
