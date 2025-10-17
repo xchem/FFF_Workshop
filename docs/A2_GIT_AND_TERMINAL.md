@@ -89,4 +89,6 @@ E.g. for HIPPO:
 
 ## Other Resources
 
+- [w3schools Git Tutorial](https://www.w3schools.com/git/git_getstarted.asp)
+
 ### [[Previous section]](A1_NOTEBOOKS.md) [[Next section]](A3_FFF_TEMPLATE.md)
