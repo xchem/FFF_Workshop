@@ -17,9 +17,9 @@ The workshop and it's documentation is split into four sessions of increasing so
 1. [Jupyter Notebooks on Fragalysis](docs/A1_NOTEBOOKS.md)
 2. [Git(hub) and terminal](docs/A2_GIT_AND_TERMINAL.md)
 3. [Using the FFF template repository](docs/A3_FFF_TEMPLATE.md)
-4. [Algorithmic fragment merging](docs/A4_MERGING.md)
-5. [Placing compounds with Fragmenstein](docs/A5_PLACEMENT.md)
-6. [Interaction profiling and visualisation](docs/A6_INTERACTIONS.md)
+4. [Sets and interactions](docs/A4_SETS_INTERACTIONS.md)
+5. [Algorithmic fragment merging](docs/A5_MERGING.md)
+6. [Placing compounds with Fragmenstein](docs/A6_PLACEMENT.md)
 7. [Scaffolds, clustering, and rdkit](docs/A7_CHEMINFORMATICS.md)
 8. [Selecting compounds and Fragalysis Upload](docs/A8_SELECTIONS.md)
 
