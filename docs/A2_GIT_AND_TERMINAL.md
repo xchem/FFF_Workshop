@@ -1,7 +1,7 @@
 
 # Part A2: Using git(hub) and the terminal
 
-### [[Previous section]](A1_NOTEBOOKS.md) [[Next section]](A3_FFF_TEMPLATE.md)
+### [[Previous section]](A1_NOTEBOOKS.md) [[Next section]](A3_SETUP_HIPPO.md)
 
 Git is the most common way to track changes in software projects. Github.com is the most popular place to store such *repositories* (for free) and they are a great way of backing up your code and (<100Mb) output files. Some knowledge of the command-line is required and basics are covered here.
 
@@ -106,4 +106,4 @@ E.g. for HIPPO:
 - [w3schools Bash / command line Tutorial](https://www.w3schools.com/bash/index.php)
 - [w3schools Git Tutorial](https://www.w3schools.com/git/git_getstarted.asp)
 
-### [[Previous section]](A1_NOTEBOOKS.md) [[Next section]](A3_FFF_TEMPLATE.md)
+### [[Previous section]](A1_NOTEBOOKS.md) [[Next section]](A3_SETUP_HIPPO.md)

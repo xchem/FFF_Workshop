@@ -3,15 +3,19 @@
 
 ### [[Previous section]](A6_PLACEMENT.md) [[Next section]](A7_CHEMINFORMATICS.md)
 
+Follow the notebook [A4_SETS_INTERACTIONS.ipynb](../notebooks/A4_SETS_INTERACTIONS.ipynb) to go through some examples of compound and pose sets, and interaction profiling/visualisation.
+
 ## Outline/Ideas
 
 - Selecting sets of compounds/poses
-- Using / adding tags
-- Interactive visualisation
+- Adding tags
+- Boolean operations
 - Dataframes
-- Exporting files
-	- Pose SDFs
-	- Compound CSVs
+- Subsite selection
+- Subsite assignment
+	- From canonsite
+	- Manual
+	- Posebutcher?
 - Interaction profiling
 - Interaction visualisation
 
