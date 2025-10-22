@@ -3,7 +3,7 @@
 
 ### [[Previous section]](A2_GIT_AND_TERMINAL.md) [[Next section]](A5_MERGING.md)
 
-Follow the notebook [A3_SETUP_HIPPO.ipynb](../notebooks/A3_SETUP_HIPPO.ipynb) to download a target and set up a HIPPO project.
+Follow the notebook [A3_TARGET_SETUP.ipynb](../notebooks/A3_TARGET_SETUP.ipynb) to download a target and set up a HIPPO project.
 
 ## Other Resources
 
