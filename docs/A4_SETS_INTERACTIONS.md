@@ -3,7 +3,7 @@
 
 ### [[Previous section]](A6_PLACEMENT.md) [[Next section]](A7_CHEMINFORMATICS.md)
 
-Follow the notebook [A4_SETS_INTERACTIONS.ipynb](../notebooks/A4_SETS_INTERACTIONS.ipynb) to go through some examples of compound and pose sets, and interaction profiling/visualisation.
+Follow the notebook [A4_sets_and_interactions.ipynb](../notebooks/A4_sets_and_interactions.ipynb) to go through some examples of compound and pose sets, and interaction profiling/visualisation.
 
 ## Outline/Ideas
 
