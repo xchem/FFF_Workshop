@@ -16,7 +16,7 @@ The workshop and it's documentation is split into four sessions of increasing so
 0. Intro presentation (Max)
 1. [Jupyter Notebooks on Fragalysis](docs/A1_NOTEBOOKS.md)
 2. [Git(hub) and terminal](docs/A2_GIT_AND_TERMINAL.md)
-3. [Using the FFF template repository](docs/A3_FFF_TEMPLATE.md)
+3. [Project setup and HIPPO introduction](docs/A3_SETUP_HIPPO.md)
 4. [Sets and interactions](docs/A4_SETS_INTERACTIONS.md)
 5. [Algorithmic fragment merging](docs/A5_MERGING.md)
 6. [Placing compounds with Fragmenstein](docs/A6_PLACEMENT.md)
@@ -32,8 +32,8 @@ The workshop and it's documentation is split into four sessions of increasing so
 ### Session C (4 hours): Syndirella and recipe generation
 
 1. [Syndirella retrosynthesis w/ AiZynthFinder](docs/C1_RETROSYNTHESIS.md)
-2. [Syndirella elaboration](docs/C2_ELABORATIONS.md)
-3. [Loading syndirella outputs into HIPPO](docs/C3_LOAD_SYNDIRELLA.md)
+2. [Reactions and routes in HIPPO](docs/C2_ELABORATIONS.md)
+3. [Syndirella Elaboration](docs/C3_ELABORATIONS.md)
 4. [Generating a scaffold recipe](docs/C4_SCAFFOLD_RECIPE.md)
 5. [Generating output files](docs/C5_RECIPE_OUTPUTS.md)
 6. [Random recipe generation](docs/C6_RGEN.md)

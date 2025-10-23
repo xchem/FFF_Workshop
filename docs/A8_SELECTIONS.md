@@ -3,6 +3,9 @@
 
 ### [[Previous section]](A7_CHEMINFORMATICS.md) [[Next section]](B1_BB_QUOTE.md)
 
+- Select merge poses generated from Fragmenstein
+- Generate Fragalysis upload file
+
 
 ## FAQ
 
