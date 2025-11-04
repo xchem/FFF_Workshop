@@ -7,6 +7,7 @@
 - calculate scaffold relationships
 - MoCASSIn?
 - Posebusters?
+- Molecular weight histograms and other plotting
 
 ## FAQ
 

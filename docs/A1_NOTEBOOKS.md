@@ -1,9 +1,16 @@
 
-# Part A1: Jupyter Notebooks on Fragalysis
+# Part A1: Fragalysis and Jupyter Notebooks
 
 ### [[Back to intro]](README.md) [[Next section]](A2_GIT_AND_TERMINAL.md)
 
 Jupyter notebooks are a convenient way to run Python scripts from a user-friendly web interface. Fragalysis offers pre-configured notebooks apps via the Squonk Data Manager, that include the FFF tools described in this workshop and are the recommended way to run small FFF calculations.
+
+## Fragalysis intro
+
+Familiarise yourself with Fragalysis. Useful links:
+
+- [Production Fragalysis](https://fragalysis.diamond.ac.uk)
+- [Fragalysis Documentation](https://fragalysis.readthedocs.io)
 
 ## Accessing notebooks on Fragalysis
 
