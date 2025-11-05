@@ -19,9 +19,9 @@ The workshop and it's documentation is split into four sessions of increasing so
 3. [Project setup and HIPPO introduction](docs/A3_SETUP_HIPPO.md)
 4. [Sets and interactions](docs/A4_SETS_INTERACTIONS.md)
 5. [Algorithmic fragment merging](docs/A5_MERGING.md)
-6. [Uploading to Fragalysis](docs/A6_UPLOAD.md)
+6. [Placing compounds](docs/A6_PLACEMENT.md)
 7. [Scaffolds, clustering, and rdkit](docs/A7_CHEMINFORMATICS.md)
-8. [Selecting compounds and Fragalysis Upload](docs/A8_SELECTIONS.md)
+8. [Selecting compounds and Fragalysis Upload](docs/A8_UPLOADS.md)
 
 ### Session B (2 hours): Catalogue Orders
 
