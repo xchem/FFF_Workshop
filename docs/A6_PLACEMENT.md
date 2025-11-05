@@ -1,5 +1,5 @@
 
-# Part A^: Placing against fragments with Fragmenstein
+# Part A6: Placing against fragments with Fragmenstein
 
 ### [[Previous section]](A5_MERGING.md) [[Next section]](A7_CHEMINFORMATICS.md)
 
