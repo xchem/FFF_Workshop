@@ -11,7 +11,7 @@ This repository contains the information and workshop materials for an in-person
 
 The workshop and it's documentation is split into four sessions of increasing software difficulty.
 
-### Session A (4 hours): Introductions
+### Session A: Introductions
 
 0. Intro presentation (Max)
 1. [Fragalysis and Jupyter Notebooks](docs/A1_NOTEBOOKS.md)
@@ -23,23 +23,7 @@ The workshop and it's documentation is split into four sessions of increasing so
 7. [Scaffolds, clustering, and rdkit](docs/A7_CHEMINFORMATICS.md)
 8. [Selecting compounds and Fragalysis Upload](docs/A8_UPLOADS.md)
 
-### Session B (2 hours): Catalogue Orders
+### Session B: Reactions, quotes, and basic sampling
 
-1. [Working with the Enamine in-stock BB database](docs/B1_BB_QUOTE.md)
-2. [Working with Enamine quote spreadsheets](docs/B2_REAL_QUOTE.md)
-3. [Optimising a selection of Catalogue compounds](docs/B3_CATALOGUE_SELECT.md)
-
-### Session C (4 hours): Syndirella and recipe generation
-
-1. [Syndirella retrosynthesis w/ AiZynthFinder](docs/C1_RETROSYNTHESIS.md)
-2. [Reactions and routes in HIPPO](docs/C2_ELABORATIONS.md)
-3. [Syndirella Elaboration](docs/C3_ELABORATIONS.md)
-4. [Generating a scaffold recipe](docs/C4_SCAFFOLD_RECIPE.md)
-5. [Generating output files](docs/C5_RECIPE_OUTPUTS.md)
-6. [Random recipe generation](docs/C6_RGEN.md)
-7. [Recipe scoring](docs/C7_SCORING.md)
-
-### Session D (3 hours): FFF on IRIS HPC
-
-1. [SLURM Scripts](D1_SLURM.md)
-2. [BulkDock](D2_BULKDOCK.md)
+1. [Working with the Enamine in-stock database and quotes](docs/B1_ENAMINE.md)
+2. [Optimising a selection of Catalogue compounds](docs/B2_CATALOGUE_SELECT.md)

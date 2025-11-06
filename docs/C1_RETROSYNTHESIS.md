@@ -1,7 +1,7 @@
 
 # Part C1: Syndirella retrosynthesis w/ AiZynthFinder
 
-### [[Previous section]](B3_CATALOGUE_SELECT.md) [[Next section]](C2_REACTIONS_ROUTES.md)
+### [[Previous section]](B2_CATALOGUE_SELECT.md) [[Next section]](C2_REACTIONS_ROUTES.md)
 
 - Generate syndirella inputs
 - Run syndirella in CLI
@@ -13,4 +13,4 @@
 
 ## Other Resources
 
-### [[Previous section]](B3_REAL_QUOTE.md) [[Next section]](C2_REACTIONS_ROUTES.md)
+### [[Previous section]](B2_CATALOGUE_SELECT.md) [[Next section]](C2_REACTIONS_ROUTES.md)

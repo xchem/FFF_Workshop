@@ -3,11 +3,9 @@
 
 ### [[Previous section]](A4_SETS_INTERACTIONS.md) [[Next section]](A8_SELECTIONS.md)
 
-- calculate scaffolds
-- calculate scaffold relationships
-- MoCASSIn?
-- Posebusters?
-- Molecular weight histograms and other plotting
+- Example elaboration series from openbind 2a
+- calculate other scaffolds in the data
+- substructure queries, similarity queries
 
 ## FAQ
 
