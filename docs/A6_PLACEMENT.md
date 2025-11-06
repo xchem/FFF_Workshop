@@ -3,7 +3,7 @@
 
 ### [[Previous section]](A5_MERGING.md) [[Next section]](A7_CHEMINFORMATICS.md)
 
-
+Follow the notebook [A6_placement.ipynb](../notebooks/A6_placement.ipynb) to go through uploading compound sets and interactive graphs to Fragalysis.
 
 ## Other Resources
 
