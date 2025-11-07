@@ -3,12 +3,7 @@
 
 ### [[Previous section]](A4_SETS_INTERACTIONS.md) [[Next section]](A8_SELECTIONS.md)
 
-- Example elaboration series from openbind 2a
-- calculate other scaffolds in the data
-- substructure queries, similarity queries
-
-## FAQ
-
+Follow the notebook [A7_scaffolds.ipynb](../notebooks/A7_scaffolds.ipynb) to go through working with scaffold / superstructure relations.
 
 ## Other Resources
 
