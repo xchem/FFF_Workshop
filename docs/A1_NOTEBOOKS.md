@@ -19,7 +19,7 @@ Follow the [Fragalysis instructions](https://fragalysis.readthedocs.io/en/latest
 ## Notebook intro
 
 <picture>
- <img alt="Welcome Notebook" src="media/notebook_welcome.png">
+ <img alt="Welcome Notebook" src="../media/notebook_welcome.png">
 </picture>
 
 - The _File Navigator_ (red in the above image) provides an interface to create, rename and delete files and directories in the Squonk project. You can also right click to download files, and drag and drop from your Windows file browser / Mac Finder window to upload files.
