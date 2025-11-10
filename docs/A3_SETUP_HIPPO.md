@@ -10,4 +10,4 @@ Follow the notebook [A3_target_setup.ipynb](../notebooks/A3_target_setup.ipynb) 
 - [Fragalysis Python API documentation](https://fragalysis.readthedocs.io/en/latest/py_api.html)
 - [HIPPO documentation](https://hippo-docs.winokan.com/en/latest/getting_started.html)
 
-### [[Previous section]](A2_GIT_AND_TERMINAL.md) [[Next section]](A5_MERGING.md)
+### [[Previous section]](A2_GIT_AND_TERMINAL.md) [[Next section]](A4_SETS_INTERACTIONS.md)
