@@ -1,7 +1,7 @@
 
 # Part A3: Project setup and HIPPO introduction
 
-### [[Previous section]](A2_GIT_AND_TERMINAL.md) [[Next section]](A5_MERGING.md)
+### [[Previous section]](A2_GIT_AND_TERMINAL.md) [[Next section]](A4_SETS_INTERACTIONS.md)
 
 Follow the notebook [A3_target_setup.ipynb](../notebooks/A3_target_setup.ipynb) to download a target and set up a HIPPO project.
 
